@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="WordPress - Admin">
+  <test name="run on Chrome">
+    <classes>
+      <class name="com.wp.posts.Post_01_New_Edit_Delete"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
