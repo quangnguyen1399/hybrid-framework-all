@@ -25,6 +25,7 @@ public class Level_01_Login_Repeat_Yourself {
 		driver.get("https://www.facebook.com/");
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		/////////////
+		////ádasđ
 	}
 
 	@Test
